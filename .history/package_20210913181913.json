@@ -1,6 +1,6 @@
 {
   "name": "szyjian-baidu-map",
-  "version": "1.0.4",
+  "version": "1.0.1",
   "description": "Baidu Map Component for Vue 2.x",
   "main": "index.js",
   "directories": {
@@ -24,7 +24,7 @@
     "vue",
     "baidu-map",
     "bmap",
-    "szyjian-baidu-map",
+    "vue-baidu-map",
     "baidu",
     "map"
   ],
